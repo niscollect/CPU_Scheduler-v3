@@ -117,4 +117,4 @@ Each tick shows:
 * How **OS scheduling** really requires a tick-based model when I/O is involved
 * Preemption is just "putting current process back in line"
 * Queue structure choice depends on algorithm (FIFO → circular queue, SJF/STCF → array for searching)
-* Edge cases (burst finishes vs quantum expiry) matter more a lot
+* Edge cases (burst finishes vs quantum expiry) matter a lot
